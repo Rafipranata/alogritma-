@@ -1,0 +1,3 @@
+s = "rafi"
+
+print(s)
