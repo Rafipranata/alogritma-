@@ -1,12 +1,12 @@
 #pertemuan 9 - Perulangan Bersarang
 
-#   Nama    = RAFI PRANATA
+#   Nama    = RAFI PRANATA6
 #   NPM     = 25670022 
 #   KELAS   = 1A 
 
 if __name__ == "__main__":
     
-    # for i in range(1, 6):
+    # for i in range(1, ):
     #     print(f"Outer Loop ke-{i}")
     #     for j in range(1,4):
     #         print(f"Inner Loop ke-{j}")
@@ -81,7 +81,6 @@ if __name__ == "__main__":
                     print("Poin dan Promo")
                 elif(pilih == 5):
                     print("Terimakasi telah pakai bank berdiri")
-
         else:
             batas_login+=1
             print("Username dan Password yang adna masukan salah")
