@@ -1,4 +1,4 @@
-#pertemuan 11 - Perulangan Bersarang
+#pertemuan 11 - Array
 
 #   Nama    = RAFI PRANATA
 #   NPM     = 25670022 
