@@ -33,6 +33,16 @@ if __name__ == "__main__":
     print("Sebelum Bubble Sort")
     sorting.cetak_list(list_angka)
 
-    sorting.bubble_sort(list_angka)
+    sorting.bubble_sort_asc(list_angka)
+    print("Sesudah Bubble Sort")
+    sorting.cetak_list(list_angka)
+
+
+    list_angka = [21 ,25 ,38 ,1 ,2 ,4 ,5,]
+
+    print("Sebelum Bubble Sort")
+    sorting.cetak_list(list_angka)
+
+    sorting.bubble_sort_desc(list_angka)
     print("Sesudah Bubble Sort")
     sorting.cetak_list(list_angka)
